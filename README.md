@@ -1,0 +1,2 @@
+# my-word
+training purpose
